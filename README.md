@@ -50,6 +50,6 @@
 
 <p align="center">
 <a href="https://thenanayaw.netlify.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.thenanayaw.netlify.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/nana-yaw-asare-frimpong-855611107/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nana%20Yaw%-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/nana-yaw-asare-frimpong-855611107/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nana%20Yaw-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:nanayaw@resourceify.com"><img alt="Email" src="https://img.shields.io/badge/Email-nanayaw@resourceify.com-blue?style=flat-square&logo=gmail"></a>
 </p>
