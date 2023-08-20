@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Electrical and Electronic Engineering at the University of Nottingham.
+- 🎓 &nbsp; I am currently studying Electrical and Electronic Engineering at the University of Nottingham.
 - ✍️ &nbsp; 3D printing, PCB Design as hobbies
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
