@@ -3,8 +3,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Electrical and Electronic Engineering at the University of Nottingham.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; 3D printing, PCB Design as hobbies
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
