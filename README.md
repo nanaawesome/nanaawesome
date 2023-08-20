@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Nana</h2>
+<h2> Bienvenue! I'm Nana</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
